@@ -1,0 +1,15 @@
+
+
+Lifecycle of EC2 instance with instance id = i-0b70d12209158ef39
+
+Starting at: 2021-10-07 20:30:02.343593
+Started at: 2021-10-07 20:30:03.083327
+New IP addres: 3.109.207.58
+Establishing remote connection with the EC2 instance using fabric at: 2021-10-07 20:30:33.184091
+Successfully established connection with the EC2 instance at: 2021-10-07 20:30:33.186814
+NER work started at: 2021-10-07 20:30:33.186823
+NER work ended at: 2021-10-07 20:31:36.693115
+Killing the EC2 instance at: 2021-10-07 20:31:36.693132
+
+                -----------------------------------------------------------------------------------------------             
+

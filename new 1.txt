@@ -1,0 +1,19 @@
+  
+    scrape_configs:
+    
+      - job_name: 'node-exporter-scrape'
+        scrape_interval: 5s
+        metrics_path: '/metrics'
+        static_configs:
+        - targets: ['172.31.47.48:9100','172.31.38.43:9100','172.31.46.120:9100','172.31.37.47:9100','172.31.32.215:9100','10.100.60.145:9100']
+       
+      - job_name: 'kube-state-metric-scrape'
+        scrape_interval: 5s
+        metrics_path: '/metrics'
+        static_configs:
+        - targets: ['10.100.216.87:9090']
+      - job_name: 'kube-eagle'
+        scrape_interval: 5s
+        metrics_path: '/metrics'
+        static_configs:
+        - targets: ['10.100.61.165:8080']

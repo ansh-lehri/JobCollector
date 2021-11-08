@@ -1,0 +1,19 @@
+
+
+Starting to predict suitable jobs at: 2021-10-07 19:30:58.923661
+Status returned: Predicting jobs completed at: 2021-10-07 19:31:15.658116
+
+
+Updating neo4j job nodes session value at: 2021-10-07 20:12:44.330354
+Status returned: Updation completed at: 2021-10-07 20:12:47.074294
+
+Starting to predict suitable jobs at: 2021-10-07 20:31:47.096355
+Status returned: Predicting jobs completed at: 2021-10-07 20:32:18.010808
+
+
+Starting to predict suitable jobs at: 2021-10-07 20:43:10.606093
+Status returned: Predicting jobs completed at: 2021-10-07 20:43:32.818064
+
+
+Updating neo4j job nodes session value at: 2021-10-07 21:11:55.939204
+Status returned: Updation completed at: 2021-10-07 21:11:57.977640
